@@ -1,6 +1,3 @@
-Here's a detailed `README.md` file for Cypress testing project, covering the sections: summary of the repo, requirements, steps to install, steps to launch, and steps to create the report.
-
-```markdown
 # Cypress Testing Project
 
 ## Summary of Repo
@@ -21,7 +18,7 @@ This repository contains Cypress end-to-end tests for the [Conduit](https://cond
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-   ```
+
 
 2. **Install Dependencies**
 
